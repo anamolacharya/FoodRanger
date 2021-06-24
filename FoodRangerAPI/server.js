@@ -1,13 +1,3 @@
-/*
-var express = require("express"),
-  app = express(),
-  port = process.env.PORT || 3000;
-
-app.listen(port);
-
-console.log("Food Ranger RESTful API server started on: " + port);
-*/
-
 require("dotenv").config();
 
 var express = require("express"),
