@@ -1,0 +1,11 @@
+{
+  "name": "foodranger",
+  "version": "1.0.0",
+  "description": "This web app helps the user to find the food near the user's location and order online. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anamol Acharya",
+  "license": "ISC"
+}
